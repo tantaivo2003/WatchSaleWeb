@@ -1,0 +1,8 @@
+- Đầu tiên, import cơ sở dữ liệu ltw_db vào phpmyadmin.
+- Tiếp theo hãy chạy file mainPage.php trong thư mục Khach để thực hiện tính năng của khách. (vd: localhost/ASS_Final/Khach/mainPage.php).
+- Để kiểm tra tính năng của thành viên, hãy tiến hành đăng nhập với:
+	username: duongminh
+	password: 123456
+- Để kiểm tra tính năng của quản trị viên, hãy tiến hành đăng xuất tài khoản của thành viên và đăng nhập với:
+	username: tantai
+	password: 123456
